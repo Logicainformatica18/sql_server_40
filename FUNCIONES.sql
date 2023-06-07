@@ -1,12 +1,13 @@
 -- FUNCIONES
 /*
-La solución a problemas complejos se facilita si sedividen en porciones
-de código llamados scripts, los cuales permiten al programador, en Transact SQL,
-dividir en unidades de programas o módulos que estén diseaños para una tarea
-espicífica; la ventaja de esto es que solo se escribirá una vez, pero
-pueden ser invocadas desde cualquier módulo de consulta, ya que éstas funciones
-se crean dentro de una base de datos y se quedan registradas en él.
+La soluciï¿½n a problemas complejos se facilita si sedividen en porciones
+de cï¿½digo llamados scripts, los cuales permiten al programador, en Transact SQL,
+dividir en unidades de programas o mï¿½dulos que estï¿½n diseaï¿½os para una tarea
+espicï¿½fica; la ventaja de esto es que solo se escribirï¿½ una vez, pero
+pueden ser invocadas desde cualquier mï¿½dulo de consulta, ya que ï¿½stas funciones
+se crean dentro de una base de datos y se quedan registradas en ï¿½l.
 */
 -- FUNCIONES DE SISTEMA
 
 -- FUNCIONES DEFINIDAS POR EL USUARIO
+SELECT * FROM CLIENTES
